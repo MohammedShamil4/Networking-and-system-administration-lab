@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------------------------------------------------------
+                                                   SHELL SCRIPT PROGRAMS
+--------------------------------------------------------------------------------------------------------------------------------
+1. Shell script to test whether the given year is a leap year or not
+
+2. Shell script to read 3 numbers and test whether they can be sides of a triangle
+
+3. Shell script using command line to test whether given number is prime or not
+
+4. Shell script to rename all ordinary files in a directory with filename.PID of shell
+
+5. Shell script to compare two files. If the files are identical delete one
+
+6. Shell script to count the number of words and lines in a file
+
+7. Shell script to display message “Good morning”,”Good afternoon”,”Good evening” and “Good night” according to system time
+
+8. Shell script to display a file from last line to first line
+
+9. Shell script to delete all lines if a file containing word linux
+
+10. Shell script to display the content of a directory file in windows style
+
+11. Shell script to print specified range of lines from given files
+
+12. Shell script to copy a set of files given as pairs at command prompt
+
+13. Shell script to count the occurrence of words in a file in a set of files
+
+14. Shell script to modify cp command considering all error possibilities
+
+15. Shell script to perform a menu driven program to display
+
+	a) All ordinary files
+	
+	b) All directory files
+	
+	c) All special files
+
+	d) All files readable to UGO
+	
+	e) All files writable to UGO
+	
+	f) All files executable to UGO
+
+--------------------------------------------------------------------------------------------------------------------------------
