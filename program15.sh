@@ -21,7 +21,7 @@ fi
 
 while :
 do
-echo "\n1.Audinary files"
+echo "\n1.Ordinary files"
 echo "2.Directory files"
 echo "3.Special files"
 echo "4.Readable files"
@@ -33,7 +33,7 @@ read opt
 
 case $opt in
 
-1) echo "Audinary files\n"
+1) echo "Ordinary files\n"
 for file in *
 do
 	if [ -f $file ]
@@ -98,7 +98,7 @@ done
 <<com
 ksb@ksb-ThinkCentre-Edge72:~/shamil/script/programs$ sh program15.sh
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -108,7 +108,7 @@ ksb@ksb-ThinkCentre-Edge72:~/shamil/script/programs$ sh program15.sh
 
 select your option:
 1
-Audinary files
+Ordinary files
 
 f1.text
 f2.text
@@ -130,7 +130,7 @@ program7.sh
 program8.sh
 program9.sh
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -143,7 +143,7 @@ select your option:
 directory files
 
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -174,7 +174,7 @@ program7.sh
 program8.sh
 program9.sh
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -206,7 +206,7 @@ program7.sh
 program8.sh
 program9.sh
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -238,7 +238,7 @@ program7.sh
 program8.sh
 program9.sh
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
@@ -251,7 +251,7 @@ select your option:
 Exicutable files
 
 
-1.Audinary files
+1.Ordinary files
 2.Directory files
 3.Special files
 4.Readable files
